@@ -1,5 +1,5 @@
-function C(x) {
-    return x;
+function C(arg) {
+    return arg;
 }
 
 C();
